@@ -1,0 +1,26 @@
+/*!******************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/index.css ***!
+  \******************************************************************************************************************************************************************************/
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --dark: #737373;
+  --middle: #979797;
+  --light: #dedede;
+  --pink: #ff0aa9;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --dark: #737373;
+  --middle: #979797;
+  --light: #dedede;
+  --pink: #ff0aa9;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguMTM3YmE0ODg4M2M2NjMwN2NiMjkuY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FDQ0Y7O0FDUEE7RUFDSTtBRFVKOztBRFhBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FDY0YsQyIsInNvdXJjZXMiOlsid2VicGFjazovL1BST0pFQ1RfQ09ERS8uL3NyYy9zdHlsZXNoZWV0cy92YXJzLnNjc3MiLCJ3ZWJwYWNrOi8vUFJPSkVDVF9DT0RFLy4vc3JjL2luZGV4LmNzcyIsIndlYnBhY2s6Ly9QUk9KRUNUX0NPREUvLi9zcmMvc3R5bGVzaGVldHMvaW5kZXguc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyI6cm9vdCB7XG4gIC0td2hpdGU6ICNmZmZmZmY7XG4gIC0tYmxhY2s6ICMwMDAwMDA7XG4gIC0tZGFyazogIzczNzM3MztcbiAgLS1taWRkbGU6ICM5Nzk3OTc7XG4gIC0tbGlnaHQ6ICNkZWRlZGU7XG4gIC0tcGluazogI2ZmMGFhOTtcbn0iLCI6cm9vdCB7XG4gIC0td2hpdGU6ICNmZmZmZmY7XG4gIC0tYmxhY2s6ICMwMDAwMDA7XG4gIC0tZGFyazogIzczNzM3MztcbiAgLS1taWRkbGU6ICM5Nzk3OTc7XG4gIC0tbGlnaHQ6ICNkZWRlZGU7XG4gIC0tcGluazogI2ZmMGFhOTtcbn1cblxuaDEge1xuICBjb2xvcjogYXF1YW1hcmluZTtcbn1cblxuOnJvb3Qge1xuICAtLXdoaXRlOiAjZmZmZmZmO1xuICAtLWJsYWNrOiAjMDAwMDAwO1xuICAtLWRhcms6ICM3MzczNzM7XG4gIC0tbWlkZGxlOiAjOTc5Nzk3O1xuICAtLWxpZ2h0OiAjZGVkZWRlO1xuICAtLXBpbms6ICNmZjBhYTk7XG59IiwiaDEge1xuICAgIGNvbG9yOmFxdWFtYXJpbmU7XG59Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
